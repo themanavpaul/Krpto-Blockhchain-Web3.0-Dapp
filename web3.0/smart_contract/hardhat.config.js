@@ -7,6 +7,7 @@ module.exports = {
   solidity: '0.8.0',
   networks: {
     ropsten: {
+      // Alchemy Api Link here
       url: 'https://eth-ropsten.alchemyapi.io/v2/ZG1obJfod0I5YKe5DqyFYy821W7DExGs',
       accounts:['1234567890123456789012345678901234567890123456789012345678901234']
       //accounts:['Put your (64 digit) Metamask Wallet Private Key here in accounts:']
