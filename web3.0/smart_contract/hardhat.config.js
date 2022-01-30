@@ -1,16 +1,11 @@
-// https://eth-ropsten.alchemyapi.io/v2/mYw7ZKCp-37SpwssX0AN_o992ydxBgeZ
-// https://eth-ropsten.alchemyapi.io/v2/ZG1obJfod0I5YKe5DqyFYy821W7DExGs
-
 require('@nomiclabs/hardhat-waffle');
 
 module.exports = {
   solidity: '0.8.0',
   networks: {
     ropsten: {
-      // Alchemy Api Link here
-      url: 'https://eth-ropsten.alchemyapi.io/v2/ZG1obJfod0I5YKe5DqyFYy821W7DExGs',
-      accounts:['1234567890123456789012345678901234567890123456789012345678901234']
-      //accounts:['Put your (64 digit) Metamask Wallet Private Key here in accounts:']
-    }
-  }
-}
+      url: 'https://eth-ropsten.alchemyapi.io/v2/z4WpA8UKgqnwbTYmrZu15yCOiijBKaRv',
+      accounts: ['your 64 digit wallet private key here'],
+    },
+  },
+};
