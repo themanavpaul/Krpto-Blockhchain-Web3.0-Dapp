@@ -1,8 +1,8 @@
 KRPTO - Blockchain + Web 3.0 application. 
 <br/>
-Decription:
-Transfer Ethereum (ETH) in less than 15 seconds using Smart Contract and Metamask Wallet integrated with Blockchain application.
-How to Use:
+Decription:<br/>
+Transfer Ethereum (ETH) in less than 15 seconds using Smart Contract and Metamask Wallet integrated with Blockchain application.<br/><br/>
+How to Use:<br/>
 Step 1. Click on Connect Wallet to Login with Metamask.<br/>
 Step 2. Fill the details in the form section right next to it.<br/>
 Step 3. Click on Send ETH and that's it.<br/>
