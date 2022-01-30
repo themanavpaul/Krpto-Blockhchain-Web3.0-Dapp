@@ -10,7 +10,7 @@ Step 4. Check your Latest transaction below under the transactions Column.<br/>
 Step 5. Don't forget to give a star if you liked it. ⭐<br/>
 <br/>
 Details:
-Tools and Technology: React.js, Vite, Tailwind, Giphy, Solidity, Hardhart, HTML, CSS, JS
+Tools and Technology: React.js, Vite, Tailwind, Giphy, Solidity, Hardhat, HTML, CSS, JS
 <br/>
 Live Website:
 https://krpto.netlify.app/
