@@ -1,4 +1,4 @@
-KRPTO - Blockchain + Web 3.0 application. <br/>
+KRPTO - Blockchain + Web 3.0 application to transfer ethereum via metamask <br/>
 <br/>
 Decryption:<br/>
 Transfer Ethereum (ETH) in less than 15 seconds using Smart Contract and Metamask Wallet integrated with Blockchain application.<br/><br/>
