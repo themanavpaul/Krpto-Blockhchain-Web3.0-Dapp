@@ -5,6 +5,9 @@
 
 https://krpto.netlify.app/
 <br>
+<br>
+[![KRPTO](https://github.com/themanavpaul/krpto-blockhchain-web3-dapp/blob/main/krpto.png)](https://krpto.netlify.app/)
+<br>
 
 ## 💡 Decryption:<br/>
 Transfer Ethereum (ETH) in less than 15 seconds using Smart Contract and Metamask Wallet integrated with Blockchain application.<br/><br/>
